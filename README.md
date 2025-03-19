@@ -1,5 +1,15 @@
-# Привет Нетология!
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<title>моя первая страница</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		# Привет Нетология!
 ## Меня зовут Алина
 Я очень хочу зачет, и хоть у меня лапки, но я стараюсь всему научиться!
 
 ![А вот и я!](https://github.com/AlinaYaroslavovna/Task-3-Git/blob/main/1000087996.png?raw=true)
+	</body>
+</html>
